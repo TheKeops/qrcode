@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "QR Kod Okuyucu",
+    "slug": "qr-kod-okuyucu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon2.png",
+    "scheme": "qr-scanner",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0F"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.qrscanner.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "QR kodları taramak için kamera erişimi gereklidir."
+      }
+    },
+    "android": {
+      "package": "com.qrscanner.app",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.FLASHLIGHT",
+        "android.permission.NEARBY_WIFI_DEVICES",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon2.png",
+        "backgroundColor": "#0A0A0F"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/icon2.png"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://replit.com/"
+        }
+      ],
+      "expo-font",
+      "expo-web-browser",
+      "react-native-wifi-reborn",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "QR kodları taramak için kamera erişimi gereklidir."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {
+        "origin": "https://replit.com/"
+      },
+      "eas": {
+        "projectId": "0f0ac5c7-2ae3-4cfe-8169-8b13175b58fa"
+      }
+    }
+  }
+}
