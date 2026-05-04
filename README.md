@@ -2,7 +2,7 @@
 
 **Hızlı, Güvenli ve Tamamen Özgür.**
 
-Bu uygulama; kullanıcı gizliliğini her şeyin önünde tutan, hiçbir reklam barındırmayan ve veri toplamayan, açık kaynak kodlu bir QR kod okuyucudur. Modern mobil standartlar (Dart/Flutter) ile geliştirilmiştir.
+Bu uygulama; kullanıcı gizliliğini her şeyin önünde tutan, hiçbir reklam barındırmayan ve veri toplamayan, açık kaynak kodlu bir QR kod okuyucudur.
 
 ---
 
@@ -23,9 +23,9 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 
 ## 📬 İletişim
 
-Sorularınız veya iş birliği talepleriniz için bize ulaşın:
+Sorularınız için bize ulaşın:
 
-* **Geliştirici:** Keops Games and Software Studios
+* **Geliştirici:** Keops Studios 
 * **Web:** https://linktr.ee/thekeops
 * **GitHub:** @thekeops & @yakupozalp
 
