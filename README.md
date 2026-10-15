@@ -12,7 +12,6 @@ Bu uygulama; kullanıcı gizliliğini her şeyin önünde tutan, hiçbir reklam 
 * **🆓 Tamamen Ücretsiz:** Tüm özellikler sonsuza kadar ücretsizdir.
 * **🔒 Gizlilik Odaklı:** İnternet erişimi gerektirmez (isteğe bağlı URL açma hariç), verilerinizi asla paylaşmaz.
 * **⚡ Hızlı Tarama:** En karmaşık QR kodları bile saniyeler içinde tanır.
-* **🌑 OLED Dostu Tasarım:** Göz yorgunluğunu azaltan ve pil tasarrufu sağlayan saf siyah (#000000) tema desteği.
 * **📂 Geçmiş Kaydı:** Okuttuğunuz kodlara daha sonra tekrar erişebilmeniz için yerel veri depolama.
 
 ## 📄 Lisans
