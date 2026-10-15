@@ -26,6 +26,7 @@ Sorularınız için bize ulaşın:
 
 * **Geliştirici:** Keops Studios 
 * **Web:** https://linktr.ee/thekeops
+* **Mail:** keopsstudios@gmail.com
 * **GitHub:** @thekeops & @yakupozalp
 
 ---
